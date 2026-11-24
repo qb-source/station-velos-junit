@@ -32,8 +32,6 @@ Projet d'apprentissage en automatisation des tests : une station de vélos en li
 
 ## Ce que j'ai appris
 
-## Ce que j'ai appris
-
 - **Lister les cas avant d'écrire du code** : état de départ, cas normaux, cas limites et cas d'erreur, en cherchant les frontières dans le code (`==`, `<=`, le nombre 45).
 - **Distinguer un cas limite d'un cas d'erreur** : louer le dernier vélo est un cas limite (accepté), louer dans une station vide est un cas d'erreur (refusé).
 - **Tester les deux côtés d'une frontière** : 45 minutes (encore gratuit pour un membre) et 46 minutes (première minute payante).
